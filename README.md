@@ -1,5 +1,3 @@
-# LeetCode Solutions - Java
-
 ## 📂 Easy Problems
 | Problem Name | Solution |
 |--------------|----------|
@@ -7,6 +5,8 @@
 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | [Solution](./Easy/2114_MaximumNumberOfWordsFoundInSentences.java) |
 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [Solution](./Easy/1572_MatrixDiagonalSum.java) |
 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [Solution](./Easy/867_TransposeMatrix.java) |
+| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution](./Easy/125_ValidPalindrome.java) |
+| [Reverse String](https://leetcode.com/problems/reverse-string/) | [Solution](./Easy/344_ReverseString.java) |
 
 ---
 
