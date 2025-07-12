@@ -1,6 +1,3 @@
-## 📂 Easy Problems
-| Problem Name | Solution |
-|--------------|----------|
 | Problem Name                                                                                                            | Solution                                                          |
 | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)       | [Solution](./Easy/1295_FindNumbersWithEvenNumberOfDigits.java)    |
@@ -11,6 +8,9 @@
 | [Reverse String](https://leetcode.com/problems/reverse-string/)                                                         | [Solution](./Easy/344_ReverseString.java)                         |
 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)               | [Solution](./Easy/26_RemoveDuplicatesFromSortedArray.java)        |
 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)                                                   | [Solution](./Easy/28_ImplementStrStr.java)                        |
+| [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                           | [Solution](./Easy/242_ValidAnagram.java)                          |
+| [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                 | [Solution](./Easy/387_FirstUniqueCharacterInString.java)          |
+
 
 
 
