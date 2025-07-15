@@ -2,6 +2,7 @@
 This repository contains all the LeetCode problems I’ve solved so far using Java, organized by difficulty.
 
 🧩 Easy Problems
+
 Find Numbers with Even Number of Digits
 
 Maximum Number of Words Found in Sentences
@@ -31,6 +32,7 @@ Check If Two String Arrays are Equivalent
 Shuffle the Array
 
 🧠 Medium Problems
+
 Search a 2D Matrix
 
 Search a 2D Matrix II
