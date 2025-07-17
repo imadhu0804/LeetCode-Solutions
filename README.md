@@ -22,7 +22,8 @@ This repository contains Java solutions for selected LeetCode problems I'm solvi
 | Move Zeroes                                                                                                             | 283_MoveZeroes.java                                               |
 | Maximum Product of Two Elements in an Array                                                                             | 1464_MaximumProductOfTwoElementsInAnArray.java                    |
 | Merge Strings Alternately                                                                                               | 1768_MergeStringsAlternately.java                                 |
-
+| To Lower Case                                                                                                           | 709_ToLowerCase.java                                              |
+| Goal Parse Interpretation                                                                                               | 1678_GoalParserInterpretation.java                                |
 ---
 
 ## 📂 Medium Problems
