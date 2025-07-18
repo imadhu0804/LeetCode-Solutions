@@ -24,6 +24,8 @@ This repository contains Java solutions for selected LeetCode problems I'm solvi
 | Merge Strings Alternately                                                                                               | 1768_MergeStringsAlternately.java                                 |
 | To Lower Case                                                                                                           | 709_ToLowerCase.java                                              |
 | Goal Parse Interpretation                                                                                               | 1678_GoalParserInterpretation.java                                |
+| Create Target Array                                                                                                     | 1389_CreateTargetArrayInTheGivenOrder.java                        |
+| Kids With Greatest Number Of Chocolates                                                                                 | 1431_KidsWithGreatestNumberOfCandies.java                         |
 ---
 
 ## 📂 Medium Problems
