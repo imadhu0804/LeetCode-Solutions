@@ -1,97 +1,120 @@
-LeetCode Solutions – Java (30-Day Challenge)
-Overview
+🚀 LeetCode Solutions – Java (30-Day Challenge)
 
-This repository documents my 30-day LeetCode Java Challenge, where I solved problems daily to sharpen my problem-solving skills and strengthen my understanding of data structures and algorithms.
 
-Highlights
 
-60 LeetCode Problems Solved (Easy to Medium difficulty)
 
-Solutions organized by difficulty level
 
-Strengthened DSA fundamentals using Java
 
-Built a habit of daily consistency in real-world problem-solving
+📌 Overview
 
-Repository Structure
+This repository contains my 30-Day LeetCode Challenge in Java, where I solved problems daily to improve problem-solving skills, DSA fundamentals, and coding consistency.
+
+✅ 60+ Problems solved
+✅ Easy & Medium level categorized
+✅ Focused on Arrays, Strings, Math, and Basics of DSA
+✅ Clean, beginner-friendly Java solutions
+
+📂 Repository Structure
 .
-├── Easy/          ← Contains Easy-level Java solutions
-├── Medium/        ← Contains Medium-level Java solutions
-└── README.md      ← This documentation
+├── Easy/          # Easy-level Java solutions
+├── Medium/        # Medium-level Java solutions
+└── README.md      # Documentation
 
-Solutions Overview
-<details> <summary><strong>Easy Problems</strong> (click to expand)</summary>
+🧩 Problems Covered
+<details> <summary><strong>🟢 Easy</strong> (click to expand)</summary>
 
-Find Numbers with Even Number of Digits – 1295_FindNumbersWithEvenNumberOfDigits.java
+Find Numbers with Even Number of Digits
 
-Maximum Number of Words Found in Sentences – 2114_MaximumNumberOfWordsFoundInSentences.java
+Maximum Number of Words Found in Sentences
 
-Matrix Diagonal Sum – 1572_MatrixDiagonalSum.java
+Matrix Diagonal Sum
 
-Transpose Matrix – 867_TransposeMatrix.java
+Transpose Matrix
 
-Valid Palindrome – 125_ValidPalindrome.java
+Valid Palindrome
 
-Reverse String – 344_ReverseString.java
+Reverse String
 
-Valid Parentheses – 20_ValidParentheses.java
+Valid Parentheses
 
-Remove Duplicates from Sorted Array – 26_RemoveDuplicatesFromSortedArray.java
+Remove Duplicates from Sorted Array
 
-Implement strStr() – 28_ImplementStrStr.java
+Implement strStr()
 
-Valid Anagram – 242_ValidAnagram.java
+Valid Anagram
 
-First Unique Character in a String – 387_FirstUniqueCharacterInString.java
+First Unique Character in a String
 
-Move Zeroes – 283_MoveZeroes.java
+Move Zeroes
 
-Maximum Product of Two Elements in an Array – 1464_MaximumProductOfTwoElementsInAnArray.java
+Maximum Product of Two Elements in an Array
 
-Merge Strings Alternately – 1768_MergeStringsAlternately.java
+Merge Strings Alternately
 
-To Lower Case – 709_ToLowerCase.java
+To Lower Case
 
-Goal Parser Interpretation – 1678_GoalParserInterpretation.java
+Goal Parser Interpretation
 
-Create Target Array in the Given Order – 1389_CreateTargetArrayInTheGivenOrder.java
+Create Target Array in the Given Order
 
-Kids With the Greatest Number of Candies – 1431_KidsWithGreatestNumberOfCandies.java
+Kids With the Greatest Number of Candies
 
-Roman to Integer – 13_RomanToInteger.java
+Roman to Integer
 
-Single Number – 136_SingleNumber.java
+Single Number
 
-Intersection of Two Arrays II – 350_IntersectionOfTwoArraysII.java
+Intersection of Two Arrays II
 
-How Many Numbers Are Smaller Than the Current Number – 1365_HowManyNumbersAreSmallerThanCurrent.java
+How Many Numbers Are Smaller Than the Current Number
 
-Squares of a Sorted Array – 977_SquaresOfSortedArray.java
+Squares of a Sorted Array
 
-Missing Number – 268_MissingNumber.java
+Missing Number
 
-Max Consecutive Ones – 485_MaxConsecutiveOnes.java
+Max Consecutive Ones
 
-Fibonacci Number – 509_FibonacciNumber.java
+Fibonacci Number
 
-</details> <details> <summary><strong>Medium Problems</strong> (click to expand)</summary>
+</details> <details> <summary><strong>🟡 Medium</strong> (click to expand)</summary>
 
-Search a 2D Matrix – 74_SearchA2DMatrix.java
+Search a 2D Matrix
 
-Search a 2D Matrix II – 240_SearchA2DMatrixII.java
+Search a 2D Matrix II
 
-Climbing Stairs – 70_ClimbingStairs.java
+Climbing Stairs
 
 </details>
-What’s Next?
+⚙️ How to Run
 
-Tackle more Medium and Hard level LeetCode problems
+Clone the repository
 
-Begin SDE interview preparation and explore system design
+git clone https://github.com/imadhu0804/LeetCode-Solutions.git
 
-Continue showcasing progress on GitHub and LinkedIn
 
-Connect with Me
+Navigate to the desired problem folder (Easy/ or Medium/)
+
+Compile and run using Java
+
+javac ProblemName.java
+java ProblemName
+
+🎯 Next Steps
+
+Solve Hard-level problems
+
+Focus on Dynamic Programming, Graphs, and Backtracking
+
+Continue building a solid SDE Interview Preparation repository
+
+👨‍💻 About Me
+
+💡 4th Year Computer Science & Business Systems student
+
+📌 Actively preparing for SDE roles
+
+🌱 Passionate about DSA + Development Projects
+
+🔗 Connect with me:
 
 GitHub: @imadhu0804
 
